@@ -1,0 +1,14 @@
+# Python specific
+__pycache__/
+*.pyc
+
+# macOS specific
+.DS_Store
+
+# VS Code specific
+.vscode/
+*.code-workspace
+
+# Generated data and redundant files
+output/
+cameras.pkl
