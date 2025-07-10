@@ -64,18 +64,11 @@ MeshLab should be installed separately for mesh surface reconstruction and visua
 - User interaction (using Matplotlib) may be required for feature point selection.
 - For best results, ensure all input images are pre-calibrated and consistently named.
 
-## Example
-
-_(Add example images, data, or commands here if available.)_
-
 ## License
 
-_(Specify your preferred license here, e.g., MIT, GPL, etc.)_
 
 ## Author
 
-sidgupta04
+Siddharth G.
 
 ---
-
-Feel free to contribute, report issues, or suggest improvements!
